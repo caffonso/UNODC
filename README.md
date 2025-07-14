@@ -7,6 +7,6 @@ This report presents a collaborative initiative developed within the framework o
 Through a combination of operational support, investigative training, and interagency cooperation, the program seeks to strengthen the capacities of law enforcement and customs authorities in Latin America and Southeast Asia. The aim is to identify and disrupt illegal timber supply chains, uncover associated financial crimes, and reduce deforestation and biodiversity loss. In Brazil, the program operates across six major ports, and is also active in Colombia and Peru. By promoting cross-sectoral collaboration, LEAP contributes directly to the achievement of the Sustainable Development Goals (SDGs), particularly those related to environmental protection, justice, and institutional effectiveness.
 
 
-<img src="leap.jpg" alt="source/Leap Image" width="600" style="float: center;"/>
+<img src="source/leap.jpg" alt="Leap Image" width="600" style="float: center;"/>
 
 
