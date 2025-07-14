@@ -1,5 +1,5 @@
 # UNODC
-<img src="nicfi-logo.png" alt="Leap Image" width="150" style="float: right;"/>
+<img src="source/nicfi-logo.png" alt="Leap Image" width="150" style="float: right;"/>
 Tree Species AI Classification
 
 This report presents a collaborative initiative developed within the framework of the UNODC's strategic efforts to combat forest crimes. The LEAP Program (Law Enforcement Assistance Programme to Reduce Tropical Deforestation) is a partnership between INTERPOL and several key branches of UNODC, including the Container Control Program (CCP), the Global Program against Money Laundering (GPML), and the Global Maritime Crime Program (GMCP), with support from Norway's International Climate and Forest Initiative (NICFI). 
