@@ -23,7 +23,7 @@ A number of industries use human inspection to visually classify the quality of 
 
 ## Sample Acquisition 
 
-<img src="source/sample.jpg" alt="Leap Image" width="300" style="float: center;"/>
+<img src="source/sample.jpg" alt="Leap Image" width="700" style="float: center;"/>
 
 https://www.sciencedirect.com/science/article/pii/S0957417417303627
 
