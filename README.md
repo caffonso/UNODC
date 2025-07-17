@@ -19,7 +19,40 @@ Through a combination of operational support, investigative training, and intera
 
 <img src="source/parceiros.jpg" alt="Leap Image" width="700" style="float: center;"/>
 
-## Sample Acquisition 
+
+
+### **Methodology: Species Selection and Data Acquisition**
+
+#### **1. Species Selection**
+
+The selection of species was guided by two primary criteria: **economic relevance** and **legal protection status**. Priority was given to Amazonian timber species that:
+
+* Have **high commercial value** and are **frequently traded** in local or international markets.
+* Are listed as **threatened**, **vulnerable**, or **endangered** under national or international environmental protection frameworks (e.g., IBAMA, CITES).
+* Are subject to **specific legislation** regulating extraction, trade, or use.
+
+This approach ensures that the dataset encompasses both **high-risk** and **high-priority** species, making it relevant for enforcement, conservation, and sustainable trade monitoring.
+
+#### **2. Sample Collection**
+
+To ensure data quality and representativeness, the following protocol was used:
+
+* **Specimen selection:** Only **intact wood samples** were used—free from visible signs of decay, pest infestation, or fungal damage.
+* **Dimensional criteria:** Samples were required to have **adequate surface area** and **flatness** for consistent spectroscopic imaging and reliable cross-sectional observation.
+* **Equipment used:**
+
+  * A **portable digital microscope** was employed to capture high-resolution images of anatomical structures from transverse, radial, and tangential sections.
+  * A **portable near-infrared (NIR) spectrometer** was used to collect spectral reflectance data across the appropriate wavelength range for wood identification.
+
+#### **3. Data Acquisition**
+
+* **Imaging procedure:** Cross-sectional images were captured under standardized lighting conditions and magnification levels to highlight species-specific anatomical features.
+* **Spectral analysis:** NIR data were acquired for each sample in triplicate to ensure reproducibility. Pre-processing techniques (e.g., baseline correction, normalization) were applied before further analysis.
+
+---
+
+Let me know if you'd like this adapted to a specific style (e.g. for a grant proposal, journal article, or thesis), or if you'd like the next sections written (e.g. preprocessing, model training, or results).
+
 
 <img src="source/sample.jpg" alt="Leap Image" width="700" style="float: center;"/>
 
