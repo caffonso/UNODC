@@ -87,28 +87,23 @@ Independent datasets are used to **validate and test the model**, ensuring its g
 #### **6. Results Analysis**
 
 The model’s performance is assessed using metrics such as **accuracy**, **confusion matrix**, and other classification indicators, providing insight into its capability to correctly identify protected versus commercial wood species.
-$$
-\begin{array}{c|c|c|c}
-\hline
-\textbf{Model}  & \textbf{Acc. Val} & \textbf{loss Val} & \textbf{Acc. train}& \textbf{loss Train}\\
-\hline
-UNO_4     & .747          & 1.145 & .94      & .086\\
-UNO_{15}  & .767          & .625 & .900      & .187\\
-UNO_{16}  & .800          & .640 & .900      & .166\\
-UNO_{20}  & .720          & .916 & .940      & .136 \\
-UNO_{21}  & .830          & .475 & .950      & .082\\
-UNO_{22k} & .813          & .529 & .950      & .082\\
-UNO_{23k} & .787          & .805 & .910      & .169\\
-UNO_{neu2}& \textbf{.833} & \textbf{.482} & .947      & .138\\
-\hline
-\end{array}
-$$
 
 ---
 
 ### **Data Analysis**
 
 The integrated approach combining **deep learning**, **digital imaging**, and **NIR spectroscopy** proved effective in **wood species identification**, especially in distinguishing **protected** from **commercially traded species**. The results demonstrate the **practical applicability** of advanced computational techniques in **environmental crime prevention** and **illegal logging control**.
+
+| **Model**    | **Acc. Val** | **Loss Val** | **Acc. Train** | **Loss Train** |
+|--------------|--------------|--------------|----------------|----------------|
+| UNO_4        | 0.747        | 1.145        | 0.940          | 0.086          |
+| UNO₁₅        | 0.767        | 0.625        | 0.900          | 0.187          |
+| UNO₁₆        | 0.800        | 0.640        | 0.900          | 0.166          |
+| UNO₂₀        | 0.720        | 0.916        | 0.940          | 0.136          |
+| UNO₂₁        | 0.830        | 0.475        | 0.950          | 0.082          |
+| UNO₂₂k       | 0.813        | 0.529        | 0.950          | 0.082          |
+| UNO₂₃k       | 0.787        | 0.805        | 0.910          | 0.169          |
+| **UNOₙₑᵤ2**  | **0.833**    | **0.482**    | 0.947          | 0.138          |
 
 ---
 
