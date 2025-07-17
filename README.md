@@ -178,7 +178,7 @@ These results indicate an **exceptional performance** of the classification mode
 
 Such high metrics reflect the robustness and reliability of the model, particularly in sensitive applications such as **environmental protection**, where **false positives** and **false negatives** can have significant ecological and legal consequences.
 
-Claro! Aqui está a versão traduzida, aprimorada e estruturada em inglês da seção **"Próximos passos"**, adequada para relatórios técnicos, propostas de pesquisa ou documentos estratégicos:
+
 
 ---
 
