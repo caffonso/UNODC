@@ -165,7 +165,7 @@ This section presents the key findings, evaluates the performance of the impleme
 
   * **Parameter optimization** during training;
   * **Refinement of data collection methods** (e.g., increasing sample diversity or improving spectral resolution).
-
+<img src="source/confusao.jpg" alt="Leap Image" width="600" style="float: center;"/>
 
 ### **Performance Metrics**
 
