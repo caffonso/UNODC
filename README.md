@@ -76,7 +76,7 @@ This stage involves **cleaning, normalizing, and transforming** both image and N
 
 A **CNN architecture** is designed to analyze and classify wood data, leveraging the spatial and spectral features for improved species discrimination.
 
-<img src="source/modelo.keras.jpg" alt="Leap Image" width="150" style="float: center;"/>
+<img src="source/modelo.keras.jpg" alt="Leap Image" width="150" style="float: right;"/>
 
 #### **4. Model Training**
 
