@@ -59,10 +59,6 @@ Let me know if you'd like this adapted to a specific style (e.g. for a grant pro
 <img src="source/sample1.jpg" alt="Leap Image" width="700" style="float: center;"/>
 
 
-Claro, abaixo está a versão aprimorada e traduzida para o inglês do seu texto, organizada em uma linguagem profissional e coesa, adequada para relatórios técnicos, artigos científicos ou apresentações:
-
----
-
 ### **Computational Analysis**
 
 **Development and Application of Deep Learning**
@@ -123,6 +119,39 @@ The integrated approach combining **deep learning**, **digital imaging**, and **
 
 6. **File Formats**
    RGB images can be saved in various formats, including **JPEG**, **PNG**, **BMP**, and **TIFF**. Each format differs in compression level, quality retention, and features like transparency support.
+
+
+
+### **Results Analysis**
+
+This section presents the key findings, evaluates the performance of the implemented deep learning model, and explores the practical implications of the results obtained.
+
+#### **1. Deep Learning Model Efficiency**
+
+* **Accuracy and Precision:**
+  The model achieved a **high overall accuracy**, representing the proportion of correct classifications across all wood species. Additionally, **species-specific precision** was evaluated, reflecting the model's ability to **correctly classify individual species**, including those that are visually or chemically similar.
+
+* **Sensitivity and Specificity:**
+  The model demonstrated high levels of **sensitivity** (true positive rate) and **specificity** (true negative rate), which are both critical for distinguishing **protected species** from those that are legally traded.
+
+  In the context of classification models, **specificity** refers to the model’s ability to correctly identify **true negatives**, i.e., instances that **do not belong to the target class**. This is essential in real-world applications where the cost of false positives can be significant.
+
+  * **True Negatives (TN):** Cases where the model correctly predicts the absence of the condition (e.g., correctly identifying a non-protected species).
+  * **False Positives (FP):** Cases where the model incorrectly predicts the presence of the condition (e.g., misclassifying a commercial species as protected).
+
+  High specificity is especially important in sensitive domains. For instance:
+
+  * In **medical diagnostics**, low specificity can lead to unnecessary stress and treatments.
+  * In **security systems**, low specificity (i.e., too many false alarms) can undermine trust in the system’s reliability.
+
+#### **2. Confusion Matrix Analysis**
+
+* A **confusion matrix** was employed to visualize the model’s performance across different classes. It provided detailed insights into the **error distribution** for each species, highlighting which species were most frequently confused with others.
+
+* This analysis was instrumental in identifying potential areas for **model improvement**, such as:
+
+  * **Parameter optimization** during training;
+  * **Refinement of data collection methods** (e.g., increasing sample diversity or improving spectral resolution).
 
 
 
