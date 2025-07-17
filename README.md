@@ -87,6 +87,22 @@ Independent datasets are used to **validate and test the model**, ensuring its g
 #### **6. Results Analysis**
 
 The model’s performance is assessed using metrics such as **accuracy**, **confusion matrix**, and other classification indicators, providing insight into its capability to correctly identify protected versus commercial wood species.
+$$
+\begin{array}{c|c|c|c}
+\hline
+\textbf{Model}  & \textbf{Acc. Val} & \textbf{loss Val} & \textbf{Acc. train}& \textbf{loss Train}\\
+\hline
+UNO_4     & .747          & 1.145 & .94      & .086\\
+UNO_{15}  & .767          & .625 & .900      & .187\\
+UNO_{16}  & .800          & .640 & .900      & .166\\
+UNO_{20}  & .720          & .916 & .940      & .136 \\
+UNO_{21}  & .830          & .475 & .950      & .082\\
+UNO_{22k} & .813          & .529 & .950      & .082\\
+UNO_{23k} & .787          & .805 & .910      & .169\\
+UNO_{neu2}& \textbf{.833} & \textbf{.482} & .947      & .138\\
+\hline
+\end{array}
+$$
 
 ---
 
