@@ -154,6 +154,76 @@ This section presents the key findings, evaluates the performance of the impleme
   * **Refinement of data collection methods** (e.g., increasing sample diversity or improving spectral resolution).
 
 
+### **Performance Metrics**
+
+The calculations of overall accuracy, average precision, average sensitivity (recall), and average specificity, based on the manually constructed confusion matrix, are as follows:
+
+* **Accuracy:** 98.89%
+* **Average Precision:** 97.76%
+* **Average Sensitivity (Recall):** 98.24%
+* **Average Specificity:** 99.88%
+
+These results indicate an **exceptional performance** of the classification model. The model demonstrates a **very high capacity to correctly identify** wood species (true positives), as well as to **accurately reject instances** that do not belong to the target classes (true negatives).
+
+Such high metrics reflect the robustness and reliability of the model, particularly in sensitive applications such as **environmental protection**, where **false positives** and **false negatives** can have significant ecological and legal consequences.
+
+Claro! Aqui está a versão traduzida, aprimorada e estruturada em inglês da seção **"Próximos passos"**, adequada para relatórios técnicos, propostas de pesquisa ou documentos estratégicos:
+
+---
+
+### **Next Steps**
+
+To further advance the wood species identification project using deep learning techniques, the following steps are recommended:
+
+#### **1. Dataset Enhancement**
+
+* **Expand the database** by including more samples, especially of **underrepresented species**, to improve class balance.
+* **Increase diversity** in the collected samples by varying lighting conditions and capture angles, thereby enhancing the model's robustness to real-world variability.
+
+#### **2. Model Improvement**
+
+* **Explore deeper or more advanced neural network architectures** to improve the model’s generalization capacity.
+* **Implement data augmentation techniques** to artificially expand the training dataset and increase its variability, reducing overfitting and improving performance on unseen data.
+
+#### **3. Cross-Validation and Field Testing**
+
+* Adopt **cross-validation** strategies for more reliable model evaluation.
+* Conduct **real-world field tests** to validate the model’s accuracy and usability in practical forestry and enforcement scenarios.
+
+#### **4. Spectral Data Integration**
+
+* Combine **RGB image data with NIR spectral data** to leverage both anatomical and chemical characteristics for enhanced species identification.
+
+#### **5. User Interface Development**
+
+* Design a **user-friendly interface** to facilitate field use by forestry agents and inspectors.
+* Include features that allow users to **report issues and provide feedback**, enabling continuous system improvement.
+
+#### **6. Training and Capacity Building**
+
+* Conduct **training sessions** for forestry officers and environmental enforcement teams on how to use the system effectively.
+* Develop **educational materials** to explain the system’s technical aspects and the legal implications of illegal logging.
+
+#### **7. Strategic Partnerships**
+
+* Collaborate with **academic institutions and research centers** to access expert knowledge and advanced technological resources.
+* Partner with **environmental organizations** to validate the model scientifically and to promote biodiversity conservation efforts.
+
+#### **8. Updates and Maintenance**
+
+* Implement a **regular update plan** to incorporate new data, refine the algorithms, and maintain model accuracy.
+* Establish a **maintenance protocol** to ensure system reliability, especially in remote or high-demand environments.
+
+#### **9. Scalability**
+
+* Plan for the **scalability of the project**, enabling adaptation for use in other regions and contexts.
+* Consider expanding the system’s scope to detect **other forms of illegal natural resource exploitation** beyond timber.
+
+#### **10. Legal Compliance and Certifications**
+
+* Ensure the system complies with **local and international environmental regulations** and **legal frameworks**.
+* Pursue **certifications** and official validations to boost the system’s credibility and foster institutional adoption.
+
 
 The [repository](repository)
 
