@@ -13,6 +13,8 @@ Through a combination of operational support, investigative training, and intera
 
 <img src="source/encontro.jpg" alt="Leap Image" width="700" style="float: center;"/>
 
+<img src="source/atividades.jpg" alt="Leap Image" width="700" style="float: center;"/>
+
 ## Partners 
 
 <img src="source/parceiros.jpg" alt="Leap Image" width="700" style="float: center;"/>
