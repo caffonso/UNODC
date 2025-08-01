@@ -179,7 +179,7 @@ The calculations of overall accuracy, average precision, average sensitivity (re
 These results indicate an **exceptional performance** of the classification model. The model demonstrates a **very high capacity to correctly identify** wood species (true positives), as well as to **accurately reject instances** that do not belong to the target classes (true negatives).
 
 Such high metrics reflect the robustness and reliability of the model, particularly in sensitive applications such as **environmental protection**, where **false positives** and **false negatives** can have significant ecological and legal consequences.
-### **App release
+### **App release**
 
 We are pleased to announce that Version B of the Tree Species AI Classification application has now been officially released. This milestone was achieved through the collaborative efforts of the Forest Products Laboratory, UNESP (São Paulo State University), the UNODC–LEAF Program, and IBAMA (Brazilian Institute of Environment and Renewable Natural Resources). Each organization brought unique expertise—from the Forest Products Laboratory’s deep understanding of wood anatomy, to UNESP’s advanced spectroscopic protocols, UNODC–LEAF’s law-enforcement integration, and IBAMA’s regulatory oversight—ensuring that the new release not only meets scientific standards but also aligns with environmental protection mandates. Stakeholders across academia, government, and enforcement agencies have been actively involved in the final validation stages, providing invaluable feedback to refine both the user interface and core classification algorithms.
 
