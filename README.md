@@ -186,7 +186,9 @@ We are pleased to announce that Version B of the Tree Species AI Classification 
 After extensive field trials and controlled laboratory benchmarking, Version B has been formally approved for both its functionality and the accuracy of its underlying deep‐learning model. Functional tests confirmed seamless operation across multiple hardware configurations—ranging from desktop workstations to portable field devices—while the improved convolutional neural network demonstrated a classification accuracy exceeding 98 percent on independent validation sets. In parallel, near-infrared spectral analysis routines were validated for reproducibility and precision, reinforcing the model’s reliability when distinguishing protected species from commercially traded timber. With this approval, the application is ready for wider deployment among customs authorities, forestry inspectors, and conservation researchers, marking a significant step forward in the fight against illegal logging and the protection of endangered tree species.
 
 ### **Prototype**
-<img src="source/prototype.jpeg" alt="Leap Image" width="600" style="float: center;"/>
+
+
+<img src="source/prototype.jpeg" alt="Leap Image" width="300" style="float: center;"/>
 
 ---
 
