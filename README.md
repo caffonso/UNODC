@@ -96,17 +96,6 @@ The model’s performance is assessed using metrics such as **accuracy**, **conf
 
 The integrated approach combining **deep learning**, **digital imaging**, and **NIR spectroscopy** proved effective in **wood species identification**, especially in distinguishing **protected** from **commercially traded species**. The results demonstrate the **practical applicability** of advanced computational techniques in **environmental crime prevention** and **illegal logging control**.
 
-| **Model**    | **Acc. Val** | **Loss Val** | **Acc. Train** | **Loss Train** |
-|--------------|--------------|--------------|----------------|----------------|
-| UNO_4        | 0.747        | 1.145        | 0.940          | 0.086          |
-| UNO₁₅        | 0.767        | 0.625        | 0.900          | 0.187          |
-| UNO₁₆        | 0.800        | 0.640        | 0.900          | 0.166          |
-| UNO₂₀        | 0.720        | 0.916        | 0.940          | 0.136          |
-| UNO₂₁        | 0.830        | 0.475        | 0.950          | 0.082          |
-| UNO₂₂k       | 0.813        | 0.529        | 0.950          | 0.082          |
-| UNO₂₃k       | 0.787        | 0.805        | 0.910          | 0.169          |
-| **UNOₙₑᵤ2**  | **0.833**    | **0.482**    | 0.947          | 0.138          |
-
 ---
 
 ### **RGB Digital Imaging**
