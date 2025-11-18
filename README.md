@@ -33,7 +33,7 @@ The selection of species was guided by two primary criteria: **economic relevanc
 
 This approach ensures that the dataset encompasses both **high-risk** and **high-priority** species, making it relevant for enforcement, conservation, and sustainable trade monitoring.
 
-<img src="source/species.png" alt="Leap Image" width="450" style="float: center;"/>
+<img src="source/species.png" alt="Leap Image" width="600" style="float: center;"/>
 
 #### **2. Sample Collection**
 
